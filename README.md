@@ -1,4 +1,4 @@
 # testgit
-test
-szoboszlai
-mount
+test  
+szoboszlai  
+mount  
