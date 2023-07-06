@@ -1,5 +1,7 @@
 # testgit
 declan  
+bruno  
 szoboszlai  
 mount  
-zinchenko
+zinchenko  
+kovacic
